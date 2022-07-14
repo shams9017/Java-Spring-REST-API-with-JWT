@@ -1,0 +1,4 @@
+INSERT INTO oscarmovies(title,createdDateTime,lastModifiedDateTime, category,nominee,review,version) VALUES('Joker','2017-02-13 15:56','2021-02-13 15:56','Thriller','Best actor','He became the character',0);
+INSERT INTO oscarmovies(title,createdDateTime,lastModifiedDateTime,category,nominee,review,version) VALUES('1917','2017-02-13 15:56','2020-02-13 15:56','War','Best cinematography','Felt as if I was in the war',0);
+INSERT INTO oscarmovies(title,createdDateTime,lastModifiedDateTime,category,nominee,review,version) VALUES('Parasite','2017-02-13 15:56','2021-02-13 15:56','Dramedy','Best picture','Amazing!!',0);
+INSERT INTO oscarmovies(title,createdDateTime,lastModifiedDateTime,category,nominee,review,version) VALUES('The Irishman','2017-02-13 15:56','2021-02-13 15:56','Crime','Best picture','This feels like a classic',0);
